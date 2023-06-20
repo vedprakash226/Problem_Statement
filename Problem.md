@@ -14,3 +14,18 @@ The first line contains one integer **t (1≤t≤1000)** — the number of test 
 The first line of each test case contains two integer  **N(1 ≤ N ≤ 30)** — spots on the wall and **L (1 ≤ L ≤ 1000)** — length of the wire purchased.
 ## Output
 For each test case, output the minimum length of the unused wire, or **-1** if the wire is not sufficient.
+## Example
+| S.No. | input |
+| ---------| -------- |
+| Test Cases | 4 |
+| 1. | 3 8 |
+| 2. | 3 9 |
+| 3. | 2 4 |
+| 4. | 5 25 |
+
+| S.No. | output |
+| --------- | ------- |
+| 1. | 0 |
+| 2. | 0 |
+| 3. | -1 |
+| 4. | 5 |
